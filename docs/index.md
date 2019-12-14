@@ -1,0 +1,7 @@
+
+# GoHost
+ ---
+ 
+ + num
+ + boolean
+ 
